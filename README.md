@@ -10,15 +10,15 @@ GİRİŞ PENCERESİ
 
 ![1](https://user-images.githubusercontent.com/53614606/122605015-88d4bf00-d07f-11eb-829c-23af78c13304.jpg)
 
-Uygulamaya giriş yapmamızı sağlayan penceredir. Giriş işlemi yapılmadan herhangi bir işlem yapılamaz. Tasarımın amacı; Uygulamaya rastgele bir kişinin girişini engelleme Varsayılan Kullanıcı adı ve Parola Sırasıyla admin,123’dur.
+Uygulamaya giriş yapmamızı sağlayan penceredir. Giriş işlemi yapılmadan herhangi bir işlem yapılamaz. Tasarımın amacı; Uygulamaya rastgele bir kişinin girişini engellemektir. Varsayılan Kullanıcı Adı ve Parola sırasıyla admin,123’dur.
 
 ANAPENCERE
 
 ![2](https://user-images.githubusercontent.com/53614606/122605135-b457a980-d07f-11eb-81ad-3c3e2d9c1f44.jpg)
 
-Ana pencere, Giriş penceresinden sonra açılan Müşteri işlemleri, Araç işlemleri, otopark giriş-çıkış, otopark arşiv ve istatistik pencerelerine ulaşabileceğiniz yerdir.
+Ana pencere, Giriş penceresinden sonra açılan Müşteri İşlemleri, Araç İşlemleri, Otopark Giriş-Çıkış, Otopark arşiv ve İstatistik pencerelerine ulaşabileceğiniz yerdir.
 Ana pencerede şu an aktif olarak otoparkta duran araçların bilgilerini gösterir bunlar yer, müşteri ve araç bilgisidir.
-Menüler sayesinde daha kullanışlı bir ara yüz tasarlandı bu sayede daha fazla olarak F1,F2,F3 soldan sağa doğru kısa yollar atandı.
+Menüler sayesinde daha kullanışlı bir ara yüz tasarlandı bu sayede daha fazla özellik olarak F1,F2,F3 soldan sağa doğru kısa yollar atandı.
 
 MÜŞTERİ İŞLEMLER PENCERESİ
 
